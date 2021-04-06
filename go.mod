@@ -11,4 +11,6 @@ require (
 	github.com/prometheus/common v0.20.0
 	github.com/uber/jaeger-client-go v2.25.0+incompatible
 	github.com/uber/jaeger-lib v2.4.1+incompatible // indirect
+	go.uber.org/zap v1.16.0
+	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 )
